@@ -1,0 +1,198 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true copy of a letter, intercepted, going for Holland directed thus for his, and his wives, never failing friend Roger Le Strange at the Oranges Court with care and speed, hast, hast, post hast.</title>
+            <author>H. B.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A30948</idno>
+            <idno type="STC">Wing B80</idno>
+            <idno type="STC">ESTC R713</idno>
+            <idno type="EEBO-CITATION">13170090</idno>
+            <idno type="OCLC">ocm 13170090</idno>
+            <idno type="VID">98266</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A30948)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 98266)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 445:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true copy of a letter, intercepted, going for Holland directed thus for his, and his wives, never failing friend Roger Le Strange at the Oranges Court with care and speed, hast, hast, post hast.</title>
+                  <author>H. B.</author>
+               </titleStmt>
+               <extent>[2], 2 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for H. B. ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Feb. 10th, 1680.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed on page two: H. B.</note>
+                  <note>According to BM the H. B. of this work may be Henry Brome.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>L'Estrange, Roger, --  Sir, 1616-1704.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:98266:1"/>
+            <pb facs="tcp:98266:1" rendition="simple:additions"/>
+            <p>A True Copy OF A LETTER (intercepted) going for <hi>Holland.</hi> Directed Thus For his (and his Wives) never Failing Friend Roger Le Strange At the Oranges Court with Care and Speed, haſt, haſt, poſt haſt.</p>
+            <q>Parvis componere magnus.</q>
+            <p>
+               <hi>LONDON,</hi> Printed for H. B. at his Holineſſes Gun in Pouls Church-yard, vvhere they vvill be Delivered to you Gratis. Feb. 10th. 1680.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:98266:2"/>
+            <pb n="1" facs="tcp:98266:2"/>
+            <opener>
+               <salute>Honeſt <hi>Roger,</hi>
+               </salute>
+            </opener>
+            <p>PArdon the Expreſſion I beſeech you, I know I wrong you; but 'tis my Natural way of Speak<g ref="char:EOLhyphen"/>ing to all my Benefactors right or wrong, in the Front of whom I muſt ever place you as <hi>Chief Squire</hi> of the Quill to my Body; and the only <hi>Broom-ſtaff</hi> of my ſupport and mainte<g ref="char:EOLhyphen"/>nance, for 'tis thee dear <hi>Roger,</hi> who have ſupplyed my <hi>Cannon</hi> with <hi>Jeſuits Balls</hi> and <hi>Powder</hi> for above theſe Fifteen Years, and made it roar louder than all his Holineſſes <hi>Bulls,</hi> or the <hi>Tantivy Trumpeters:</hi> I do not in the leaſt Queſtion your ſafe Arrival at <hi>Hanſlardike,</hi> having thoſe wonder-working Prieſts in your Company (men of miracles) and not a <hi>Maſs</hi> ſaid without ye: Theſe together with that good old Proverb (I moſt rely on) he that's Born to be hang'd (for in my Conſcience that's the end on't) need never fear Drowning; ſecure me of your good paſſage, but to the buſineſs; yours from <hi>Scotland</hi> never came to my hand till <hi>Printed,</hi> through the unhappy miſtake of the Meſſenger, who thought the <hi>Gun and Elephant</hi> had been all one, with that in <hi>Smithfield,</hi> in the Fair time, and ſo carryed it to <hi>Smiths</hi> Caſtle in <hi>Cornhill;</hi> whence it came to me by <hi>Intelligence:</hi> I was <hi>Strangely</hi> confounded, when I read your hard uſage there, (what thought I) is <hi>Englands Crack-fart</hi> the Churches Champion, the Kings con<g ref="char:EOLhyphen"/>fident the Tongue-Plotting Dialoguing Diſcovering Maskerading Juſt-Aſſe, Truſty <hi>Roger,</hi> now forc't to ſcreen himſelf under <hi>Jockeys Blue Bonnet</hi> of the <hi>Presbyterian Cut</hi> under the very Noſe of his great Maſter for Shelter; it had like to broke my Heart-ſtrings (had they not been double twiſted) for grief and madneſs, but more of this (for a <hi>Remedy</hi>) by the next.</p>
+            <p>Honeſt <hi>Tomſon</hi> ſet out (ſoon after the Diſſolution) for <hi>Briſtol,</hi> where no leſs than four <hi>Dozen</hi> of our Friends came forth to receive him, but the <hi>Aſſes</hi> being twice the number of their <hi>Horſes,</hi> it ſeems they were obliged to ride double, whom the Hereticks have concluded them all <hi>Abhorrors,</hi> and I fear may Burn them (in Effigie) at his Holineſſes next <hi>Proceſſion:</hi> Father <hi>Patch</hi> hath ſummoned all the <hi>Muſty</hi> good Cu-Rats in his Territories, to meet on a Certain day at the ſign of the <hi>Popes Bathing Tub</hi> in <hi>Rooks-all-ſtreet,</hi> in order to Chooſe ſome <hi>Par-Lee-men,</hi> that may joyn with them to Conſecrate the ⊕ Bath for <hi>Holy Water,</hi> and then take it with them (in Pint Bottles) to <hi>Oxon,</hi> in order to Expell Plots and Plotters; which <hi>Tompſon</hi> Swears, (as a Tryed man) 'twill do infallibly; and offers (the ſecond time) to pawn his Soul on it.</p>
+            <p>The old <hi>Cock-loft Roger,</hi> where you and <hi>Tompſon Lay</hi> has been ſearch't for you no leſs than Nine times already: But that which moſt vexed me (beſides their calling me <hi>Raſcal</hi> for hiding you, and then ſo ſtoutly denying on't) they brought that poor Rogue <hi>Robin Hog;</hi> and made him hold the Can<g ref="char:EOLhyphen"/>dle to them; where he (like an owl) Blundering on the Old Coffer at the Beds feet, cries out what's here, a <hi>Printing Preſs;</hi> no ſooner had they forc'd it open, but their (as the Devil would have it) they found your white Hat, <hi>Lac'd Band</hi> and Sword, with your Juſt-aſſe-ſhips <hi>Gold Button Coat,</hi> and the under Petticoat you had of Madam <hi>Vaultinglaſs</hi> wrapt up together in <hi>Tompſons Canonical Gown:</hi> All which I had (though unluckily) juſt before (with much ado) Redeem'd from the <hi>Lavender</hi> in <hi>Long-lane;</hi> here's the Rogue, pull him out, ſays the <hi>Short-ſtaff-man:</hi> I had almoſt Burſt my ſelf, to ſee them ſo prettily deceived, though 'twas Damn'd hard <hi>(Roger)</hi> to looſe the <hi>Premiſſes,</hi> knowing your occaſions for them: However off they carryed them, Swearing though they miſſed your <hi>Carcaſe,</hi> they had got the <hi>Better half</hi> on you; and ſtuffing them out, with my old <hi>Brooms,</hi> and your Papers which lay Ruſt<g ref="char:EOLhyphen"/>ing by me, (for faith <hi>Roger,</hi> all we can <hi>Write or Print</hi> is but waſt Paper, it will not <hi>take</hi> now adays) putting a Papiſt mask on them (as much to the Life as poſſible) they carryed them into the <hi>Strand,</hi> and have hung you up <hi>Roger</hi> (in Effigie) on the <hi>May-pole;</hi> where you may be ſure you want not for Spectators, the Hereticks Flock by Droves to ſee you; though few knew what to make on you, that's the beſt on't; ſome ſays its <hi>Tom Blood</hi> in his Crown-Cheat, others 'tis a true Son of the Church <hi>Tom of Bri<g ref="char:EOLhyphen"/>ſtol,</hi> a third ſay 'tis a <hi>Hermophrodite Strange-lee</hi> compounded of <hi>Giles and Cellier,</hi> a forth 'tis a Proteſtant in Maskerades, a fifth 'tis the <hi>mack-niny Juſt-aſſe</hi> hung up againſt St. <hi>David</hi>'s day, to make a <hi>Taffee</hi> on, a ſixth 'tis <hi>Nolls Fidler</hi> Metemorphoſt; others ſay 'tis a Mare-maid (neither Fiſh nor Fleſh) becauſe of the <hi>Petti<g ref="char:EOLhyphen"/>coat Roger,</hi> but the wiſer ſort, ſwear down right, 'tis old <hi>Touſer,</hi> and <hi>Touſer</hi> is all of them.</p>
+            <p>Pray acquaint your <hi>Orange Miſtriſs</hi> with the Birth of her <hi>Royal Brother</hi> (by the Fathers ſide) which dropt lately in <hi>Scotland,</hi> to the great joy of all good Catholicks, who ſwear (by the Maſs) he's born to be a <hi>Pope</hi> infallibly; coming into the World, with his <hi>Left great-Toe</hi> in his <hi>Right hand,</hi> which poſture makes the ſign of the <g ref="char:cross">✚</g> exactly: and is ſo hopeful a Bantling, he hath the <hi>Breviary</hi> and all the Office of our La<g ref="char:EOLhyphen"/>dy by heart already; and conſtantly ſays his <hi>Pater noſter</hi> Eleven times in a day; though ſomewhat <hi>Snuf<g ref="char:EOLhyphen"/>fling</hi> through the noſe, which <hi>John Cadbury</hi> ſays (having calculated his Nativity together with the way of his procreation,) proves him to be the ſon of his nown Daddy, deſcending in a Right line from old <hi>Fenney</hi> the <hi>Sage</hi> and as like him as poſſible, Laxative to Admiration.</p>
+            <p>Here hath happened ſome <hi>M<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>racles</hi> lately (beſides that of the comet and the <hi>Diſſolution</hi>) old <hi>Will Staf<g ref="char:EOLhyphen"/>ford</hi> (it ſeems) is forced to do <hi>Pennance,</hi> for telling ſo much truth of the Plot and (mack-niny) our Ma<g ref="char:EOLhyphen"/>ſter; though troth <hi>(Roger)</hi> I think it ſomewhat hard meaſure, I dare ſwear he near intended it living nor dying: Beſides one would have thought (in good conſcience) his laſt Holy Lying in denying on't, toge<g ref="char:EOLhyphen"/>ther with his Sufferings, might have made amends for that over-ſight, he hath held ſeveral <hi>headleſs</hi> confe<g ref="char:EOLhyphen"/>rences with their Lordſhips in the <hi>Tower</hi> (and ſome out on't) to find out ſome way (ere to late) how to keep off the Approaching evil day (for it muſt and will come <hi>Roger</hi>) either by ſtroaking <hi>Toms Cheeks</hi> with yellow boys in order to an eſcape, or elſe to multiply them into ſo many <hi>Thouſands,</hi> as may pay (in part) our out guards, and ſome other preſſing <hi>neceſſaries</hi> (male and Female) in order to diſſolve the Enemy: for look ye Sirs (quoth <hi>Will</hi>) I tell you Vows, Oaths, Diſpenſations, <hi>Sham-plots,</hi> Countermines Lying and De<g ref="char:EOLhyphen"/>nying, no nor the promiſes of either <hi>Captain</hi> or <hi>Lieutenant</hi> or both, how e're they flatter you, can (if once they get you at the <hi>Boarded Theatre</hi> at <hi>Weſtminſter</hi>) help you off with your Necks whole; you ſee (if the Fathers will give you leave to believe your own lyes) I ſpeak by experience, as well as <hi>Ned Coleman,</hi> and to ſay truth theirs no knowledg like it: this Laſt <hi>(Roger)</hi> I am inform'd was agreed on as the <hi>Beſt</hi> (becauſe the <hi>Laſt</hi>) Remedy; upon which old <hi>Will</hi> took his leave, paying as much reſpects to their Lordſhips as was
+<pb n="2" facs="tcp:98266:3" rendition="simple:additions"/>poſſible for any one under his circumſtances, and took his way directly to <hi>Newgate,</hi> to viſit the diſpairing Fathers (his laſt <hi>Speech-makers</hi>) where he found them in a moſt profound conſult (together with Lame <hi>Giles</hi> and <hi>Betty Cellier</hi> in St. <hi>Colemans</hi> Apartment) how they ſhou'd alſo eſcape the approaching <hi>Nooſes: Belzebub</hi> be with ye (ſays <hi>Will</hi>) if he be not here already; if he be not (quoth <hi>Manſon</hi>) you <hi>Lop headed Dotard,</hi> did his Devilſhip ever leave any of our Profeſſion, ſo long as we had a ſingle minutes time left for Plotting; but the queſtion, like you, and your late <hi>Reading</hi> (we heard on't) did ever Puppy <hi>Mumble</hi> over his Leſſon at ſuch a fate as you did the very Catholicks (as Blind as they are) as well as Hereticks ſwore they could <hi>ſee</hi> you <hi>Lye:</hi> Oh unpardonable Mortal Sinner to be ſo diſcovered, had you as many heads as <hi>Hydra,</hi> you deſerved to looſe them all, for that your <hi>Drunken Folly;</hi> you ſhould have Wiſh't, Curs'd, Swore, invoked God, Angels, and Men, to bear you Witneſs (though in a Lye) and <hi>Dared</hi> Heaven it ſelf to contradict you) this had been right Catholick indeed, like our dear Brethren at <hi>Tybura;</hi> and at worſt but <hi>Piae Fraudes;</hi> this ſharp Greeting rais'd the Old Gentlemans Choler to the ſame height, as when he <hi>Buggered the Boy</hi> in <hi>Hey-nauls,</hi> and Swore by Hell and <hi>Rome</hi> he'd tare them into Ato<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>s, and ſo ſave the Hangman the Labor, at which menaces away Flies <hi>Giles</hi> for his <hi>Pillory Armor,</hi> and <hi>Betty</hi> to Act the ſecond part of the <hi>Bloody Bladder,</hi> crying out, <hi>good my Lord, don't be worſe than Savage, to a Woman in Labor,</hi> the Prieſt mean time on their Knees, at Exorciſims, Damming him by <hi>Bell-Book,</hi> Salt Spittle and Candle, with a whole Cart load of <hi>Church Curſes</hi> to Pepper him; But <hi>Will</hi> defy'd them all, laying their <hi>Telping</hi> came to late (like <hi>Colemans</hi> Pardon) he was as bad as bad could be already, tickling them the while with <hi>Langberns Whip,</hi> 'tis thought they will not live long after it; and if not hang'd the ſooner, will petition the Hangman for Execution; however the good man ſcap't not <hi>Scot-free,</hi> for they had ſore cut the late <hi>Stitches</hi> in his disjoynted Neck in the Rencounter, ſo that he was forc't [like St. <hi>Denis</hi>] to <hi>carry it under his Arm,</hi> down to his Holineſſes <hi>Slaughter-houſe</hi> to have it have the <hi>Sommerſet;</hi> where the old Woman, that happened to ſee <hi>Godfreys</hi> holy uſage; and began to <hi>Cackle</hi> of it; not underſtanding [it ſeems] thoſe Duke-all Directions, of that Bleſt intreague; 'twas thought fit by the Fathers, to ſend her privately on an Errand into <hi>Purgatory;</hi> where it probable old <hi>Will</hi> came acquainted with her, this very Woman [I ſay] getting looſe, and coming [in the Dead of Night] to pay her reſpects to her great <hi>Miſtreſs,</hi> attending her [as formerly] with a <hi>Chamber pot</hi> and fine Towel, met old <hi>Will</hi> at the Door of the Bed chamber, and ſeeing his Lordſhip in that pickle offered him very civilly the uſe of her <hi>Utenſils</hi> which the good man accepted of very kindly; and ſo fell to <hi>Dabling</hi> his ſeparated Nod<g ref="char:EOLhyphen"/>dle in the Chamber-lye, which (I aſſure you <hi>Roger</hi>) was afterwards put into a Baſon [<hi>Conſecrated</hi> for that purpoſe] and placed in the Wall of the Chappel, next to the Shrine of our Lady, by the little Door, on the right hand of the Altar, the very ſelf-ſame <hi>Spot,</hi> where you uſed to kneel <hi>Roger,</hi> with a <hi>Red-croſs</hi> over it, and <hi>Roger</hi> believe me, I ſpeak not only the real ſenſe of my own tryed experience, but 'tis alſo the Catholick Faith, of all our Believing Romans its now the <hi>Beſt Holy Water</hi> that ever Catholick dipt in, for notwithſtanding its original was but from that <hi>Chip in Porridge,</hi> 'tis wonderful in its operation, even to a Thouſand Mi<g ref="char:EOLhyphen"/>racles, and of Fifty times the value of <hi>George Wakemans Bottle.</hi>
+            </p>
+            <p>As to the old Woman ſhe continues very diligent, in opening and ſhutting the Doors and Caſements, making the ſign of the ★ In every Corner ſhewing the Pictures, and Relicks to Friends, giving ſome ſigns of her own and <hi>Godfrey</hi>'s Exit, pointing to the ſeve<g ref="char:EOLhyphen"/>ral places where they laid him; But the Fathers are hard at it (and if prayers fail) they are reſolv'd to Bribe never failing <hi>Betty</hi> to lay her: But of this <hi>Roger</hi> not a word, for fear the Hereticks <hi>Smoak</hi> it; old <hi>Will</hi> I hear is for certain, poſted down into all Quar<g ref="char:EOLhyphen"/>ters (with others) our indefatigable <hi>Jeſuitical, Levitical, Atheiſtical, Pentionary, Plotting, Trumpetting, Damning, Betraying, Abhor<g ref="char:EOLhyphen"/>ring</hi> Friends, to Act their utmoſt in this new <hi>Busſle,</hi> procured <hi>(For)</hi> and <hi>By</hi> us; with Bills of <hi>Exchange,</hi> for Thouſands of <hi>French (Lumber-ſtreet) Duſt,</hi> may Bubbie the unthinking: For truſt me <hi>(Roger)</hi> what e're you deſign on t'other ſide the Herring-Brook, now is the time, or never; to ſave our Bacon; here's an odd Story <hi>(Roger)</hi> runs about Town, of a <hi>She Heretick</hi> (But all of our Faith believe her mad) who ſays (and offers to Swear to) ſomething in <hi>White</hi> Appears to her often, foretelling the removal of ſome Body (to the Weſtward) by Poyſon into <hi>Limb<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Patrum,</hi> much about <hi>Cuckow time:</hi> Certainly <hi>(Roger)</hi> this can be no Angel of ours for they (you know) are all <hi>Black;</hi> beſides the Devil (ſurely) has more wit than to ſpoil a Deſign ſo much to his (and our) ad<g ref="char:EOLhyphen"/>vantage, by telling on't, that would be to much like the Hereticks, who we hope, will ruin themſelves e're long by <hi>Dividing:</hi> Hell be prais'd for 't; yet <hi>Roger</hi> ſuppoſe (for once) it were an Angel of Light; we have taken that care before hand; he ſhall be <hi>Cre<g ref="char:EOLhyphen"/>dited</hi> at Court, juſt like the <hi>Plot</hi> in <hi>Utopis</hi> and ſignifie no more to them then the <hi>Comet</hi> which (they Swear) only foretold the Death of <hi>Nelles Lap Dog:</hi> But <hi>(Roger)</hi> now I am here, let me acquaint you with my Obſervations, I know 'twill pleaſe you, nay there's no true Catholick, but ſi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>g<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>te <hi>Deam Laudam<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>,</hi> for it all the World over thoſe <hi>Boanerges</hi> who thundered ſo loud lately at <hi>Romes</hi> Doors, his Holineſſes could not ſleep (nay ſtir) for them; met with a <hi>Northern blaſt</hi> t'other day: puft them out (at pleaſure) to the Weſt-ward; had you been here (hodge) you had ſplit your Guts with Laughing.</p>
+            <p n="2">2. To ſee them look (when 'twas too late) like things that <hi>could</hi> (or at leaſt, at preſent <hi>would</hi>) not help it: But above all to ſee our late ſculking Friends ſo <hi>Strange-lee</hi> reviv'd upon't, Damming them as brisk as ever: I have been told the Bible ſays ſome<g ref="char:EOLhyphen"/>where (for that's a Book I ſeldom meddle with) when their was <hi>no King in</hi> Iſrael, <hi>the People did what they would themſelves:</hi> But Faith <hi>(Roger)</hi> we have juſt turn'd the Tables, ours in (and our) oth' <hi>Church,</hi> do it when there is <hi>no Parliament;</hi> had you but heard (the 31th. paſt) Tantivy <hi>Pelt-ing</hi> pay them off, with 40 and 48. you'd have ſworn, he had out done you and <hi>Tompſon,</hi> he told the Hereticks plainly (though we ſhed it) the Martyrs Blood out did the <hi>Blood of Jeſus,</hi> and forc't it for his Argument: Next <hi>(Roger)</hi> have at the <hi>Virgins-Milk,</hi> that may out-do them both, and then he's fit for <hi>Cardinal;</hi> here I could enlarge my ſelf <hi>(Roger)</hi> on the Fathers, 22 out of 26 at the leaſt: But 'tis needleſs, 'twill do it ſelf ſhortly; therefore (ſince 'tis late) I'le here conclude, aſſuring you what now I have writ is certain truth in every ſyllable, and you may ſwear it <hi>(Roger)</hi> morally, much ſafer (without a Diſ<g ref="char:EOLhyphen"/>penſation) than that you are no <hi>Papiſt.</hi> But a Pox on't (now I think on't) theirs a Liſt of <hi>Queries</hi> Bawld about the Town, far worſe than that oth' Pentioners, I muſt acquaint you wi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h them, and they muſt be anſwered too (it Hell and <hi>Rome</hi> can do it) or elſe we may Write, Plot and Swear our hearts out, they'le not believe us: They call it <hi>a Match for Touzers Heraclitus Ridens,</hi> that Damn'd Paper has put them on't, the Devils in't, you muſt be Scribling; 'tis like your <hi>Stranges caſe</hi> that Brought a Dozen Wit<g ref="char:EOLhyphen"/>neſſes to Light, who proved you (through your own Fooling) to be a forſworn Villain, and a <hi>Down Right Papiſt;</hi> which never (perhaps) had otherways been heard of: But I'le not be paſſionate leaſt I miſinform you; therefore in Cool Blood <hi>(Roger)</hi> 'twixt <hi>Jeſt</hi> and <hi>Earneſt</hi> take them as you find them, put by Hereticks, here's juſt half a Dozen of them
+<list>
+                  <item>1. <hi>Querie,</hi> whether thoſe Popiſh Ar<g ref="char:EOLhyphen"/>bitrary Deſigning Knave, who talk ſo loud of 41 and 48, ought not to begin their reckoning ſomewhat about 30. in the long <hi>inter<g ref="char:EOLhyphen"/>vals</hi> of <hi>Parliament,</hi> and tell us the whole ſtory fairly on both ſides <hi>(viz.)</hi> Monopolizing <hi>Ship money,</hi> hectoring our Birth-rights (Par<g ref="char:EOLhyphen"/>liaments) book of liberties, Scotch Voyage, <hi>Star-Chamber, Biſhops Courts, Corrupt Judges, Maſſacre in</hi> Ireland (in which were Hel<g ref="char:EOLhyphen"/>liſhly Murthered above 200000 Proteſtant Souls (yet Papiſt no Rebells remember that) ſeizing the neceſſaries (near <hi>Cheſter</hi>) ſent by the worthy Citizens of <hi>London,</hi> to cloth and relieve thoſe poor languiſhing Proteſtants, who had eſcap't the <hi>Savage Papiſts</hi> and lay naked under the Walls of <hi>Dublin,</hi> Commiſſions of <hi>Army,</hi> ſetting up the <hi>Standard,</hi> declaring <hi>War,</hi> now <hi>Tery</hi> ſay (withal your im<g ref="char:EOLhyphen"/>pudence, who begun firſt; tell us <hi>that</hi> (in truth) we'le allow the <hi>Reſt,</hi> in earneſt.</item>
+                  <item>2. <hi>Querie,</hi> whether <hi>Scotch Oaths</hi> (with others ſince) <hi>Douglaſes Sermon, Beeda promiſes</hi> liberty of Conſcience, <hi>Mock marriages, War with</hi> France, <hi>ſaving</hi> Flanders, be not in <hi>Jeſt</hi>
+                  </item>
+                  <item>3. <hi>Querie,</hi> whether breaking Leagues, Dutch <hi>Wars,</hi> Chattam Victory, S<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>irna fleet, French meaſures looſe of Shipping, <hi>Poland-Letters.</hi> Wars in Chriſtendom Blood of Proteſtants, be not in Earneſt.</item>
+                  <item>4 <hi>Querie,</hi> whether Divine <hi>Right,</hi> fair Speeches; true Proteſtant love to Par<g ref="char:EOLhyphen"/>liaments juſt Rights, <hi>Engliſh</hi> Liberties, Plot Ignorance, Hanging Traitors, be not in jeſt,</item>
+                  <item>5 <hi>Querie,</hi> wether grand Debauchery, Whoring Courtiers, <hi>Popiſh</hi> Councels, Cheating Rogues, <hi>Hellish</hi> Plottings, ſaving Traitors, Rotten Peaches, <hi>French</hi> Pentioners (and Curſt Engliſh ones to) Nells of <hi>Whores,</hi> Swarms of <hi>Baſtards, Macks Cut throats,</hi> horrid Murders, Burning Cities (and the <hi>Pro<g ref="char:EOLhyphen"/>voſts houſe too</hi>) Sham-plotting, Counterminings, <hi>Suborn'd</hi> Villains, Falſe Buggeries, <hi>Papiſt Officers</hi> (by Sea and Land to) <hi>French</hi> A<g ref="char:EOLhyphen"/>greements, Diſſolutions, buying voices, falſe <hi>Returns,</hi> deſigns to Ruin us, be not in Earneſt.</item>
+                  <item>6. <hi>Querie,</hi> whether Church Papiſt, Divine Biſhops, Tantivy Abhorrors, Touzers Barking, Papiſts Scribling, (to ſave their Bacon) and deceive the People, for Swear<g ref="char:EOLhyphen"/>ing the Plots mack-ninles Title, Jeſuits Councels, <hi>French</hi> Aſſiſtance, to conquer <hi>Ireland,</hi> ſubdue <hi>Scotland,</hi> gain <hi>Flanders,</hi> beat the <hi>Dutch,</hi> get their Shipping, be maſters of the Seas, force a Rebellion, keep up the Plot, Retreeve our Cauſe, by getting (this <hi>Bout</hi>) a Popiſh <hi>Pentionary, Abhorring, Betraying,</hi> Engliſh, French, Iriſh, <hi>mack mongrel Parliament,</hi> who ſhall betray their Country, enſlave poſterity, deſtroy themſelves (at laſt) to ſave Papiſt Traytors from hanging, whether this (I ſay) can be done, by all the Arts, means, ways or money, <hi>Pope</hi> or <hi>French,</hi> Duke or Devil can invent or ſupply; time muſt ſhew:</item>
+               </list> But oth' my Conſcience <hi>(Roger)</hi> to ſpeak freely 'tis now too <hi>Late</hi> to do the Trick: This alſo will prove a <hi>Jeſt</hi> in (Concluſion)</p>
+            <lg>
+               <l>
+                  <hi>Now Crack-fart</hi> Roger, <hi>let your Crack-farts Fly</hi>
+               </l>
+               <l>
+                  <hi>The Tell tale Comet, Scrible out oth' Sky.</hi>
+               </l>
+               <l>
+                  <hi>Thy Pen Does wonders, wheels of</hi> Charles<hi>'s wain</hi>
+               </l>
+               <l>
+                  <hi>Turn ſomewhat ſtiff, you'le ſet them Right again.</hi>
+               </l>
+               <l>
+                  <hi>I in a Hop-ſack, 'tis ſuch Knaves as you</hi>
+               </l>
+               <l>
+                  <hi>Crack both the Poles, and ſtopt their moving true.</hi>
+               </l>
+               <l>
+                  <hi>Go on and Scrible, till the Gallows find</hi>
+               </l>
+               <l>
+                  <hi>You out of Breath, the Halter ſtops your Wind.</hi>
+               </l>
+            </lg>
+            <p>Sic voluere Fata.</p>
+            <closer>
+               <signed>yours <hi>H. B.</hi>
+               </signed>
+            </closer>
+            <pb facs="tcp:98266:3"/>
+         </div>
+      </body>
+   </text>
+</TEI>
